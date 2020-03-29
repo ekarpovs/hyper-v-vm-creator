@@ -1,0 +1,14 @@
+{
+  "hyperv": {
+    "vswitch": {
+      "name": ""
+    },
+    "vm": {
+      "name": "",
+      "memory": "",
+      "generation": "1",
+      "vhdpath": "",
+      "vhd": ""
+    }
+  }
+}
