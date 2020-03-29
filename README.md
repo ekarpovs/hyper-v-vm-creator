@@ -14,7 +14,7 @@ Requires PowerShell Version 5
 
 Tested on Microsoft Windows 10 Pro only
 
-## 1. Unpuck OVA.ZIP file
+## 1. Unpack OVA.ZIP file
 
 Usage:
 
